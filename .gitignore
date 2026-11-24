@@ -1,0 +1,11 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary and test artifacts
+*.log
+*.tmp
+temp/
+__pycache__/
+*.pyc
